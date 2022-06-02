@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wal33dahmad
-- 🌱 I’m currently learning React.js, Node.js, Express.js and Mongodb
+- 🌱 I’m currently working in React.js, Node.js, Express.js and Mongodb
 - 📫 rana.waleed123@gmail.com 
 
 <!---
