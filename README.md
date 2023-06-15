@@ -225,7 +225,7 @@
     alt="wal33dahmad"
   />
 </p>
-
+<!---
 <p>
   &nbsp;<img
     align="center"
@@ -233,7 +233,7 @@
     alt="wal33dahmad"
   />
 </p>
-
+--->
 
 <!---
 wal33dahmad/wal33dahmad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
