@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **DS & Algorithms** 
 - 👯 I’m looking to collaborate on **MERN projects** 
 - 💬 Ask me about **react, next and node** 
-- 📫 How to reach me **rana.waleed123@gmail.com**
+- 📫 How to reach me **waleedahmad.codes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -205,14 +205,6 @@
       height="40"
     />
   </a>
-</p>
-
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=wal33dahmad&show_icons=true&locale=en&layout=compact"
-    alt="wal33dahmad"
-  />
 </p>
 <!---
 <p>
